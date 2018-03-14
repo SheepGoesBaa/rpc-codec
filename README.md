@@ -14,5 +14,5 @@ specifications with following limitations:
 ## Installation
 
 ```sh
-go get github.com/powerman/rpc-codec/...
+go get github.com/SheepGoesBaa/rpc-codec/...
 ```
